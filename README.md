@@ -186,11 +186,12 @@ resource "google_compute_firewall" "allow-internal" {
 
 ## ✍️ Author & Maintainer
 
-Created and maintained by 
-> **Ahmed Osama Taha**
-> DevOps Engineer 
-> 📧 Email: [ahmed.osama.taha2@gmail.com](mailto:ahmed.osama.taha2@gmail.com)  
-> 🔗 LinkedIn: [linkedin.com/in/ahmedosamataha](https://www.linkedin.com/in/ahmedosamataha)
+Created and maintained by  
+**Ahmed Osama Taha**  
+DevOps Engineer  
+📧 Email: [ahmed.osama.taha2@gmail.com](mailto:ahmed.osama.taha2@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ahmedosamataha](https://www.linkedin.com/in/ahmedosamataha)
+
 
 ---
 
